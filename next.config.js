@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/:path*",
-        destination: "https://four.meme?code=C5UE2M5H89FC",
+        destination: "https://gmgn.ai/r/tFWXJd6e?chain=bsc",
         permanent: false
       }
     ]
