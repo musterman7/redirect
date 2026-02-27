@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/:path*",
-        destination: "https://four.meme?code=U94UF59BMLDE",
+        destination: "https://four.meme?code=5J95FU49249Z",
         permanent: false
       }
     ]
