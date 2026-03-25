@@ -5,6 +5,22 @@
       "destination": "http://144.172.115.132:5050/stats"
     },
     {
+      "source": "/stats.json",
+      "destination": "http://144.172.115.132:5050/stats.json"
+    },
+    {
+      "source": "/refresh-country",
+      "destination": "http://144.172.115.132:5050/refresh-country"
+    },
+    {
+      "source": "/reset",
+      "destination": "http://144.172.115.132:5050/reset"
+    },
+    {
+      "source": "/go-resolve",
+      "destination": "http://144.172.115.132:5050/go-resolve"
+    },
+    {
       "source": "/go",
       "destination": "http://144.172.115.132:5050/go"
     }
