@@ -7,10 +7,6 @@
     {
       "source": "/go",
       "destination": "http://144.172.115.132:5050/go"
-    },
-    {
-      "source": "/",
-      "destination": "http://144.172.115.132:5050/"
     }
   ]
 }
