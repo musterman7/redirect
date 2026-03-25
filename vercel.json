@@ -1,16 +1,16 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "http://144.172.115.132:5050/"
+      "source": "/stats",
+      "destination": "http://144.172.115.132:5050/stats"
     },
     {
       "source": "/go",
       "destination": "http://144.172.115.132:5050/go"
     },
     {
-      "source": "/stats",
-      "destination": "http://144.172.115.132:5050/stats"
+      "source": "/",
+      "destination": "http://144.172.115.132:5050/"
     }
   ]
 }
