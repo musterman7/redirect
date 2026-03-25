@@ -17,10 +17,6 @@
       "destination": "http://144.172.115.132:5050/reset"
     },
     {
-      "source": "/go-resolve",
-      "destination": "http://144.172.115.132:5050/go-resolve"
-    },
-    {
       "source": "/go",
       "destination": "http://144.172.115.132:5050/go"
     }
